@@ -21,3 +21,5 @@ Git Practice Project
         Создание и мерж Pull Requests на GitHub.
 
         Ручное разрешение конфликтов слияния.
+
+Система готова
